@@ -7,19 +7,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Francisco Javier Ruiz # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: javier.ruiz.cadena@gmail.com
+  phone: 3131150580
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: https://www.linkedin.com/in/francisco-javier-ruiz-cadena-a602b0170
+  github: Javi1499
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@javier_ruizz99'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -27,14 +27,10 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Upper Intermediate # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
-
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
     - item: Communication
@@ -46,72 +42,55 @@ sidebar:
     - item: Time Management
       link: # dejar en blanco
 
+    - item: Leader
+      link:
+
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+   I'm Javier Ruiz Software Engineer specialized in web development. I'm lover of technology and animals. I really like coding and learn new features with web technologies.
+  When I've time usually I like enjoy wit my family and play with my pets.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Software Engineer
+    university: University of Colima
+    time: 2018 August - 2022 July
     details: |
-
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Intern Ruby on Rails web Developer
+    time: 2022 Feb - Present
+    company: Bright Coders Academy
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Development of different katas to practice Ruby and Rails technologies, also activities and projects to learn and practice Agile methodologies
+        - Ruby 
+        - Rails
+        - GitHub
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Intern Frontend Developer
+    time: 2021 Jul - Present
+    company: Volcan Code
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      Creation of different components and views layouts with responsive design. 
+      Principal Technlogies:
+      - React.js
+      - Redux Easy Peasy
+      - StyledComponents
+      - Css grid 
 
+  - role: Intern FullStack developer
+    time: 2021 Feb - 2022 Jan
+    company: Secreteria de Salud de Colima
+    details: |
+    As part of my constitutional service I worked as Full-Stack developer. My principals tasks were creation of different views and endpoints for a Employees System Control and payroll.
+      - React.js
+      - Node.js
+      - Express
+      - Bootstrap
+      - Postman 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
@@ -122,24 +101,37 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
+    - name: JavaScript
       level: 60%
 
-    - name: Caffe
-      level: 80%
+    - name: HTML
+      level: 60%
 
-    - name: Matlab
-      level: 100%
+    - name: CSS
+      level: 60%
 
-    - name: C/C++
+    - name: React.js
+      level: 60%
+
+    - name: MySQL
       level: 40%
 
+    - name: Sass
+      level: 40%
+    
+    - name: Ruby on Rails
+      level: 40%
+    
+    - name: GraphQL
+      level: 20%
+    
+    - name: Bootstrap
+      level: 40%
+    - name: Node.js
+      level: 40%
+
+    - name: GitHub
+      level: 40%
 # NO MODIFICAR
 footer: >
   BrightCoders for a brighter future!

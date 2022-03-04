@@ -28,7 +28,7 @@ sidebar:
 
     - idiom: Spanish
       level: Native
-      
+
   interests:
     - item: Communication
       link:
@@ -46,8 +46,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-   I'm Javier Ruiz Software Engineer specialized in web development. I'm lover of technology and animals. I really like coding and learn new features with web technologies.
-  When I've time usually I like enjoy wit my family and play with my pets.
+   I'm Javier Ruiz Software Engineer specialized in web development. I'm lover of technology and animals. I really like coding and learn new features with web technologies. When I've time usually I like enjoy wit my family and play with my pets.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -62,10 +61,7 @@ experiences:
     time: 2022 Feb - Present
     company: Bright Coders Academy
     details: |
-      Development of different katas to practice Ruby and Rails technologies, also activities and projects to learn and practice Agile methodologies
-        - Ruby 
-        - Rails
-        - GitHub
+      Development of different katas to practice Ruby and Rails technologies, also activities and projects to learn and practice Agile methodologies 
 
   - role: Intern Frontend Developer
     time: 2021 Jul - Present
@@ -83,11 +79,6 @@ experiences:
     company: Secreteria de Salud de Colima
     details: |
     As part of my constitutional service I worked as Full-Stack developer. My principals tasks were creation of different views and endpoints for a Employees System Control and payroll.
-      - React.js
-      - Node.js
-      - Express
-      - Bootstrap
-      - Postman 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner

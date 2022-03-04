@@ -13,34 +13,31 @@ sidebar:
 
   # Actualiza tus datos de contacto
   email: javier.ruiz.cadena@gmail.com
-  phone: 3131150580
+  phone: '+523131150580'
   website: # No agregar http://
   linkedin: https://www.linkedin.com/in/francisco-javier-ruiz-cadena-a602b0170
   github: Javi1499
-  gitlab:
-  bitbucket:
   twitter: '@javier_ruizz99'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Upper Intermediate # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Upper Intermediate 
 
     - idiom: Spanish
-      level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-  # Registra aquí tus soft skills. Agrega o elimina según sea necesario
+      level: Native
+      
   interests:
     - item: Communication
-      link: # dejar en blanco
+      link:
 
     - item: Team Work
-      link: # dejar en blanco
+      link:
 
     - item: Time Management
-      link: # dejar en blanco
+      link:
 
     - item: Leader
       link:
@@ -127,6 +124,7 @@ skills:
     
     - name: Bootstrap
       level: 40%
+
     - name: Node.js
       level: 40%
 

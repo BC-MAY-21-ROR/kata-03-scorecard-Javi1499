@@ -13,18 +13,18 @@ sidebar:
 
   # Actualiza tus datos de contacto
   email: javier.ruiz.cadena@gmail.com
-  phone: '+523131150580'
+  phone: "+523131150580"
   website: # No agregar http://
   linkedin: https://www.linkedin.com/in/francisco-javier-ruiz-cadena-a602b0170
   github: Javi1499
-  twitter: '@javier_ruizz99'
+  twitter: "@javier_ruizz99"
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   goodreads: # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Upper Intermediate 
+      level: Upper Intermediate
 
     - idiom: Spanish
       level: Native
@@ -59,17 +59,12 @@ experiences:
   - role: Intern Ruby on Rails web Developer
     time: 2022 Feb - Present
     company: Bright Coders Academy
-    details: Development of different katas to practice Ruby and Rails technologies, also activities and projects to learn and practice Agile methodologies 
+    details: Development of different katas to practice Ruby and Rails technologies, also activities and projects to learn and practice Agile methodologies
 
   - role: Intern Frontend Developer
     time: 2021 Jul - Present
     company: Volcan Code
-    details: Creation of different components and views layouts with responsive design. 
-      Principal Technlogies:
-      - React.js
-      - Redux Easy Peasy
-      - StyledComponents
-      - Css grid 
+    details: Creation of different components and views layouts with responsive design. Principal Technlogies.
 
   - role: Intern FullStack developer
     time: 2021 Feb - 2022 Jan
@@ -102,13 +97,13 @@ skills:
 
     - name: Sass
       level: 40%
-    
+
     - name: Ruby on Rails
       level: 20%
-    
+
     - name: GraphQL
       level: 20%
-    
+
     - name: Bootstrap
       level: 40%
 

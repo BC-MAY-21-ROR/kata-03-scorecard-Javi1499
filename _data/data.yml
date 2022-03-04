@@ -7,15 +7,15 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: Francisco Javier Ruiz # Nombre completo
+  name: Francisco Javier Ruiz Cadena # Nombre completo
   tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
   email: javier.ruiz.cadena@gmail.com
-  phone: "+523131150580"
+  phone: "+52-313-115-0580"
   website: # No agregar http://
-  linkedin: https://www.linkedin.com/in/francisco-javier-ruiz-cadena-a602b0170
+  linkedin: Francisco Javier Ruiz Cadena
   github: Javi1499
   twitter: "@javier_ruizz99"
   stack-overflow: # Number/Username, e.g. 123456/alandoe
